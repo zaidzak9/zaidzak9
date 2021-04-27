@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning anything that will help me be a better version of myself
 - 💞️ I’m looking to collaborate on Mobile app projects specifically
 - 📫 How to reach me zaidzakir@hotmail.com
-- I write articles for Medium https://zaidzakir.medium.com/
+- I write tech articles for Medium https://zaidzakir.medium.com/
